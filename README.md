@@ -4,6 +4,9 @@
 
 Introducing your new virtual companion: a Defi pet that you can mint (3D NFT) and bring to life! Once minted, your Defi pet can roam around your space, interact with you, and join in on various activities.
 
+![favicon](https://github.com/user-attachments/assets/7b2da9f1-4232-43a2-a9a5-aae377791f57)
+
+Deployed on Mantle Sepolia Testnet: https://explorer.sepolia.mantle.xyz/address/0x15A734df32E7b74EA7d16d52c65908989a327D1D
 ## Requirements
 
 Before you begin, you need to install the following tools:
